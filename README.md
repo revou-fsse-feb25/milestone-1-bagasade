@@ -1,4 +1,4 @@
-# Module 1 Assignment
+# Project Milestone 1 - Responsive Web Pages
 
 ## Overview
 This is a personal website project created as part of Milestone 1 in the Full Stack Software Engineer program at RevoU. The website showcases information about me, my education, work experience, hobbies, projects, and contact form.
@@ -13,6 +13,7 @@ This is a personal website project created as part of Milestone 1 in the Full St
 
 ## Tech Stacks
 - HTML5
+- CSS
 
 ## Contact Me
 - [Email](bagas.ade.prakosa@gmail.com)
